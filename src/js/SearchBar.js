@@ -21,7 +21,7 @@ class SearchBar extends Component {
             <form>
             <input
         placeholder="Search for any game"
-        ref={input => this.search = input}
+        value={input => this.search = input}
         onChange={this.handleInputChange}
         />
         <p>{this.state.query}</p>
