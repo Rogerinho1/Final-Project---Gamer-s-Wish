@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Gamer's Wish
-Workshop #1 - Creating a sample webpage for invented furniture store using CSS.
+Final Project - My project is connected to the biggest gaming API and maps out the games that the user would look for using the search bar atop of the page. Then the user can click on any of the games to add them to their wishlist, which shows as soon as you click on any object from the found games. The project still has to be developed to add edit options, deletion options, extracting to file and more.
 
 ## Introduction
 
