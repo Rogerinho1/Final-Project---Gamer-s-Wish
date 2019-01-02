@@ -26,7 +26,7 @@ The website is a final project for the JavaScript: React course in Coders Lab Pr
 * fully working searchbar with hover effect
 * API downloads & updates the content very fast
 * possibility to add positions from the main list to the wishlist
-* saving the list to .pdf file [<b>to be added this week</b>]
+* saving the list to .pdf file [<b>to be added this week 03.01-10.01.2019</b>]
 
 ## Available Scripts
 
